@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,job_title,salary,department_name,department_budget,project_id,project_name,status
+1001,Liam,Brown,Software Engineer,85000,Engineering,1200000,201,Website Overhaul,upcoming
+1002,Emma,Taylor,Marketing Manager,78000,Marketing,800000,202,Social Media Strategy,upcoming
+1003,Michael,Johnson,Data Scientist,95000,Sales,600000,203,Product Launch,upcoming
+1004,Emily,Brown,HR Manager,70000,Human Resources,400000,204,CRM Integration,completed
+1005,Robert,Williams,Sales Executive,72000,Sales,600000,205,Brand Repositioning,completed
+1006,Linda,Miller,Operations Manager,80000,Marketing,800000,206,Mobile App Development,upcoming
+1007,William,Jones,Business Analyst,75000,Engineering,1200000,207,SEO Optimization,upcoming
+1008,Sophia,Davis,Product Manager,90000,Human Resources,400000,208,Customer Support System,completed
+1009,David,Martinez,IT Specialist,68000,IT,450000,209,Market Research,completed
+1010,Olivia,Wilson,Finance Analyst,83000,IT,450000,210,New Marketing Campaign,upcoming
